@@ -13,4 +13,7 @@ You may **not**:
 - Use this project for commercial or academic submissions
 - Publish or share the code elsewhere
 
+Live Frontend link [Netlify App]:https://kaleidoscopic-syrniki-a962ef.netlify.app/
+Live Backend link [Render API]:https://restaurant-backend-setd.onrender.com
+
 📩 For permission or collaboration, please contact: [https://github.com/Tushar-Mehra]
